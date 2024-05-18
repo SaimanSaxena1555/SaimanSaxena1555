@@ -1,5 +1,5 @@
 # 💫 About Me:
-Versatile coder mastering C, C++, and DSA. Just doing things different and by myself 🤌✨
+Versatile coder mastering C, C++, and Python Just doing things differently and by myself 🤌✨
 
 
 ## 🌐 Socials:
